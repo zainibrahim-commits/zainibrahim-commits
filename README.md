@@ -1,8 +1,8 @@
 - 👋 I'm a C++ instructor 
-- 👀 I’m very interested in Embedded Systems
+- 👀 I’m interested in Teaching and Embedded Systems
 - 🌱 I’m currently learning Embedded Systems
-- 💞️ I’m looking to collaborate on C and C++ programs
-- 📫 How to reach me https://www.linkedin.com/in/zain-ibrahim-ahmed/
+- 💞️ I’m looking to collaborate on Embedded Systems Projects
+- ✉️ You can contact me at zainibrahim99@icloud.com
 
 <!---
 zainibrahim-commits/zainibrahim-commits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
